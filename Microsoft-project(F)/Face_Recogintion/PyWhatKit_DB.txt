@@ -1,0 +1,140 @@
+Date: 21/4/2022
+Time: 18:30
+Phone Number: +919373397175
+Message: happy birthday
+--------------------
+Date: 21/4/2022
+Time: 18:35
+Phone Number: +919373397175
+Message: happy birthday
+--------------------
+Date: 21/4/2022
+Time: 18:37
+Phone Number: +919373397175
+Message: happy birthday
+--------------------
+Date: 21/4/2022
+Time: 22:35
+Phone Number: +919373397175
+Message: happy birthday
+--------------------
+Date: 21/4/2022
+Time: 22:38
+Phone Number: +919373397175
+Message: happy birthday
+--------------------
+Date: 23/4/2022
+Time: 0:26
+Phone Number: +917974848773
+Message: papa help
+--------------------
+Date: 23/4/2022
+Time: 0:44
+Phone Number: +917974848773
+Message: papa help
+--------------------
+Date: 23/4/2022
+Time: 0:48
+Phone Number: +917974848773
+Message: papa help
+--------------------
+Date: 23/4/2022
+Time: 1:16
+Phone Number: +917974848773
+Message: papa help
+--------------------
+Date: 23/4/2022
+Time: 1:23
+Phone Number: +917974848773
+Message: 23.0
+--------------------
+Date: 23/4/2022
+Time: 1:25
+Phone Number: +917974848773
+Message: papa help
+--------------------
+Date: 23/4/2022
+Time: 1:26
+Phone Number: +917974848773
+Message: longitude23.0
+--------------------
+Date: 23/4/2022
+Time: 1:27
+Phone Number: +917974848773
+Message: latitude23.0
+--------------------
+Date: 23/4/2022
+Time: 1:47
+Phone Number: +917974848773
+Message: help! help! help!
+--------------------
+Date: 23/4/2022
+Time: 1:48
+Phone Number: +917974848773
+Message: [{'annotations': {'DMS': {'lat': "23° 0' 0.00000'' N", 'lng': "71° 45' 0.00000'' E"}, 'MGRS': '42QYL8189946164', 'Maidenhead': 'ML53va00aa', 'Mercator': {'x': 7987173.464, 'y': 2615329.641}, 'OSM': {'note_url': 'https://www.openstreetmap.org/note/new#map=17/23.00000/71.75000&layers=N', 'url': 'https://www.openstreetmap.org/?mlat=23.00000&mlon=71.75000#map=17/23.00000/71.75000'}, 'UN_M49': {'regions': {'ASIA': '142', 'IN': '356', 'SOUTHERN_ASIA': '034', 'WORLD': '001'}, 'statistical_groupings': ['LEDC']}, 'callingcode': 91, 'currency': {'alternate_symbols': ['Rs', '৳', '૱', '௹', 'रु', '₨'], 'decimal_mark': '.', 'html_entity': '&#x20b9;', 'iso_code': 'INR', 'iso_numeric': '356', 'name': 'Indian Rupee', 'smallest_denomination': 50, 'subunit': 'Paisa', 'subunit_to_unit': 100, 'symbol': '₹', 'symbol_first': 1, 'thousands_separator': ','}, 'flag': '🇮🇳', 'geohash': 'ts54benb8nv8nj9qj92m', 'qibla': 273.2, 'roadinfo': {'drive_on': 'left', 'speed_in': 'km/h'}, 'sun': {'rise': {'apparent': 1650588480, 'astronomical': 1650670200, 'civil': 1650587100, 'nautical': 1650671880}, 'set': {'apparent': 1650634500, 'astronomical': 1650639240, 'civil': 1650635940, 'nautical': 1650637560}}, 'timezone': {'name': 'Asia/Kolkata', 'now_in_dst': 0, 'offset_sec': 19800, 'offset_string': '+0530', 'short_name': 'IST'}, 'what3words': {'words': 'biases.obstruct.nodding'}}, 'bounds': {'northeast': {'lat': 24.7083629, 'lng': 74.4590524}, 'southwest': {'lat': 20.0726445, 'lng': 68.1434025}}, 'components': {'ISO_3166-1_alpha-2': 'IN', 'ISO_3166-1_alpha-3': 'IND', '_category': 'place', '_type': 'state', 'continent': 'Asia', 'country': 'India', 'country_code': 'in', 'state': 'Gujarat', 'state_code': 'GJ'}, 'confidence': 1, 'formatted': 'Gujarat, India', 'geometry': {'lat': 23.0, 'lng': 71.75}}]
+--------------------
+Date: 23/4/2022
+Time: 1:49
+Phone Number: +917974848773
+Message: longitude23.0
+--------------------
+Date: 23/4/2022
+Time: 1:50
+Phone Number: +917974848773
+Message: latitude23.0
+--------------------
+Date: 23/4/2022
+Time: 12:16
+Phone Number: +917974848773
+Message: help! help! help!
+--------------------
+Date: 25/4/2022
+Time: 10:9
+Phone Number: +917974848773
+Message: help! help! help!
+--------------------
+Date: 25/4/2022
+Time: 10:10
+Phone Number: +917974848773
+Message: [{'annotations': {'DMS': {'lat': "23° 0' 0.00000'' N", 'lng': "71° 45' 0.00000'' E"}, 'MGRS': '42QYL8189946164', 'Maidenhead': 'ML53va00aa', 'Mercator': {'x': 7987173.464, 'y': 2615329.641}, 'OSM': {'note_url': 'https://www.openstreetmap.org/note/new#map=17/23.00000/71.75000&layers=N', 'url': 'https://www.openstreetmap.org/?mlat=23.00000&mlon=71.75000#map=17/23.00000/71.75000'}, 'UN_M49': {'regions': {'ASIA': '142', 'IN': '356', 'SOUTHERN_ASIA': '034', 'WORLD': '001'}, 'statistical_groupings': ['LEDC']}, 'callingcode': 91, 'currency': {'alternate_symbols': ['Rs', '৳', '૱', '௹', 'रु', '₨'], 'decimal_mark': '.', 'html_entity': '&#x20b9;', 'iso_code': 'INR', 'iso_numeric': '356', 'name': 'Indian Rupee', 'smallest_denomination': 50, 'subunit': 'Paisa', 'subunit_to_unit': 100, 'symbol': '₹', 'symbol_first': 1, 'thousands_separator': ','}, 'flag': '🇮🇳', 'geohash': 'ts54benb8nv8nj9qj92m', 'qibla': 273.2, 'roadinfo': {'drive_on': 'left', 'speed_in': 'km/h'}, 'sun': {'rise': {'apparent': 1650847560, 'astronomical': 1650929220, 'civil': 1650846180, 'nautical': 1650930900}, 'set': {'apparent': 1650893820, 'astronomical': 1650898500, 'civil': 1650895200, 'nautical': 1650896820}}, 'timezone': {'name': 'Asia/Kolkata', 'now_in_dst': 0, 'offset_sec': 19800, 'offset_string': '+0530', 'short_name': 'IST'}, 'what3words': {'words': 'biases.obstruct.nodding'}}, 'bounds': {'northeast': {'lat': 24.7083629, 'lng': 74.4590524}, 'southwest': {'lat': 20.0726445, 'lng': 68.1434025}}, 'components': {'ISO_3166-1_alpha-2': 'IN', 'ISO_3166-1_alpha-3': 'IND', '_category': 'place', '_type': 'state', 'continent': 'Asia', 'country': 'India', 'country_code': 'in', 'state': 'Gujarat', 'state_code': 'GJ'}, 'confidence': 1, 'formatted': 'Gujarat, India', 'geometry': {'lat': 23.0, 'lng': 71.75}}]
+--------------------
+Date: 25/4/2022
+Time: 10:11
+Phone Number: +917974848773
+Message: longitude23.0
+--------------------
+Date: 25/4/2022
+Time: 10:12
+Phone Number: +917974848773
+Message: latitude23.0
+--------------------
+Date: 29/4/2022
+Time: 12:54
+Phone Number: +917974848773
+Message: help! help! help!
+--------------------
+Date: 29/4/2022
+Time: 12:55
+Phone Number: +917974848773
+Message: [{'annotations': {'DMS': {'lat': "23° 0' 0.00000'' N", 'lng': "71° 45' 0.00000'' E"}, 'MGRS': '42QYL8189946164', 'Maidenhead': 'ML53va00aa', 'Mercator': {'x': 7987173.464, 'y': 2615329.641}, 'OSM': {'note_url': 'https://www.openstreetmap.org/note/new#map=16/23.00000/71.75000&layers=N', 'url': 'https://www.openstreetmap.org/?mlat=23.00000&mlon=71.75000#map=16/23.00000/71.75000'}, 'UN_M49': {'regions': {'ASIA': '142', 'IN': '356', 'SOUTHERN_ASIA': '034', 'WORLD': '001'}, 'statistical_groupings': ['LEDC']}, 'callingcode': 91, 'currency': {'alternate_symbols': ['Rs', '৳', '૱', '௹', 'रु', '₨'], 'decimal_mark': '.', 'html_entity': '&#x20b9;', 'iso_code': 'INR', 'iso_numeric': '356', 'name': 'Indian Rupee', 'smallest_denomination': 50, 'subunit': 'Paisa', 'subunit_to_unit': 100, 'symbol': '₹', 'symbol_first': 1, 'thousands_separator': ','}, 'flag': '🇮🇳', 'geohash': 'ts54benb8nv8nj9qj92m', 'qibla': 273.2, 'roadinfo': {'drive_on': 'left', 'speed_in': 'km/h'}, 'sun': {'rise': {'apparent': 1651192980, 'astronomical': 1651274640, 'civil': 1651191540, 'nautical': 1651276320}, 'set': {'apparent': 1651239480, 'astronomical': 1651244280, 'civil': 1651240920, 'nautical': 1651242540}}, 'timezone': {'name': 'Asia/Kolkata', 'now_in_dst': 0, 'offset_sec': 19800, 'offset_string': '+0530', 'short_name': 'IST'}, 'what3words': {'words': 'biases.obstruct.nodding'}}, 'bounds': {'northeast': {'lat': 24.7083629, 'lng': 74.4590524}, 'southwest': {'lat': 20.0726445, 'lng': 68.1434025}}, 'components': {'ISO_3166-1_alpha-2': 'IN', 'ISO_3166-1_alpha-3': 'IND', '_category': 'place', '_type': 'state', 'continent': 'Asia', 'country': 'India', 'country_code': 'in', 'state': 'Gujarat', 'state_code': 'GJ'}, 'confidence': 1, 'formatted': 'Gujarat, India', 'geometry': {'lat': 23.0, 'lng': 71.75}}]
+--------------------
+Date: 29/4/2022
+Time: 12:56
+Phone Number: +917974848773
+Message: longitude23.0
+--------------------
+Date: 29/4/2022
+Time: 12:57
+Phone Number: +917974848773
+Message: latitude23.0
+--------------------
+Date: 29/4/2022
+Time: 12:59
+Phone Number: +917974848773
+Message: hello
+--------------------
+Date: 29/4/2022
+Time: 13:3
+Phone Number: +917620302435
+Message: hello how are you
+--------------------
