@@ -16,6 +16,36 @@ Creates/Updates CSV file for deatils of students on registration.
 Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+SCREENSHOTS
+MAIN SCREEN:
+![00](https://user-images.githubusercontent.com/98827445/171038189-32f0cd52-0af2-4b33-8b4a-2f06972f2cfc.png)
+
+ENTERING OF ID AND PASSWORD
+![01](https://user-images.githubusercontent.com/98827445/171038301-56405847-d5f1-445e-9123-60b4190eb2b3.png)
+
+THEN CLICK ON TAKE IMAGE 
+![image](https://user-images.githubusercontent.com/98827445/171038852-eec6eb8d-b29b-49d7-9337-b06049abb511.png)
+
+THEN SAVE YOUR PROFILE BY ENTERING YOUR PASSWORD 
+![03](https://user-images.githubusercontent.com/98827445/171038962-13884498-e86a-427c-970e-bddabd306be9.png)
+After saving your profile the total registration will change to 1, now as you have registred yourself you can finally take your attendance.
+
+TAKING ATTENDANCE:
+![image](https://user-images.githubusercontent.com/98827445/171039341-025ff978-b62d-44c1-8df4-2e93cc87db0f.png)
+press Q for recording your attendance 
+
+walla! we are finally done with attendance part now.
+
+SHOWING ATTENDANCE TAKEN:
+![image](https://user-images.githubusercontent.com/98827445/171039711-df5bf298-e8b1-4af8-84e4-061b7f15747f.png)
+
+ADDITIONAL HELP OPTION IN MENUBAR:
+![04](https://user-images.githubusercontent.com/98827445/171039810-f2183a03-c8fa-4537-a8b3-51c0c29e2d49.png)
+
+CHANGE PASSWORD OPTION:
+![05](https://user-images.githubusercontent.com/98827445/171039925-5886437a-5b0a-4ebb-adf5-aa7be73534e7.png)
+
+
 # Microsoft-Project(Project_2)
 Prerequisites
 For vision:
@@ -28,28 +58,84 @@ The model used was trained with this version and does not support recent ones.
 Vision
 It has six vision based functionalities right now:
 
-Track eyeballs and report if candidate is looking left, right or up.
+Track eyeballs and report if the candidate is looking left, right, or up.
 Find if the candidate opens his mouth by recording the distance between lips at starting.
-Instance segmentation to count number of people and report if no one or more than one person detected.
-Find and report any instances of mobile phones.
 Head pose estimation to find where the person is looking.
+Security alarm to help in detecting the movement 
 Face spoofing detection
-Face detection
-Earlier, Dlib's frontal face HOG detector was used to find faces. However, it did not give very good results. In face_detection different face detection models are compared and OpenCV's DNN module provides best result and the results are present in this article.
 
-It is implemented in face_detector.py and is used for tracking eyes, mouth opening detection, head pose estimation, and face spoofing.
 
-An additional quantized model is also added for face detector as described in Issue 14. This can be used by setting the parameter quantized as True when calling the get_face_detector(). On quick testing of face detector on my laptop the normal version gave ~17.5 FPS while the quantized version gave ~19.5 FPS. This would be especially useful when deploying on edge devices due to it being uint8 quantized.
+One’s body movement-based functionality:
+Security alarm
 
-Facial Landmarks
-Earlier, Dlib's facial landmarks model was used but it did not give good results when face was at an angle. Now, a model provided in this repository is used. A comparison between them and the reason for choosing the new Tensorflow based model is shown in this article.
+Lastly, 2 gesture-based
+Brightness control 
+volume control
 
-It is implemented in face_landmarks.py and is used for tracking eyes, mouth opening detection, and head pose estimation.
+With the help of all these features cheating in online exams will become almost impossible as your eye, lips, head posture, etc will all get monitored.
 
-Note
-If you want to use dlib models then checkout the old-master branch.
+Apart from that, a student might want to fix the volume or brightness of his or her pc during either duration of the exam. For both these purposes, he/she can use his or her hand gestures. 
+Implementation of all these techniques will leave no reason for a student to sit near his or her device and hence proctoring in online exams will become more efficient and easier with time.
 
 Eye tracking
-eye_tracker.py is to track eyes. A detailed explanation is provided in this article. However, it was written using dlib.!
-![image](https://user-images.githubusercontent.com/98827445/170885709-d8fbed08-afb1-4958-99b8-8ad2667d9d12.png)
+eye_tracker.py is to track eyes
+![image](https://user-images.githubusercontent.com/98827445/171060382-3f52f584-0782-45a0-bb24-76a985be3fa2.png)
+
+Mouth Opening Detection
+mouth_opening_detector.py is used to check if the candidate opens his/her mouth during the exam after recording it initially. 
+![image](https://user-images.githubusercontent.com/98827445/171060439-d58435cf-ae02-46d0-8574-61c5fc982069.png)
+![image](https://user-images.githubusercontent.com/98827445/171060529-adb9eae0-cd0d-42c3-83fd-6956f43c9685.png)
+![image](https://user-images.githubusercontent.com/98827445/171060612-ef4c515b-e477-4326-a87f-2f797bf938c2.png)
+
+
+Head pose estimation
+head_pose_estimation.py is used for finding where the head is facing.
+![image](https://user-images.githubusercontent.com/98827445/171060822-7ada0f68-7299-4e49-8f08-9332e7a20831.png)
+![image](https://user-images.githubusercontent.com/98827445/171060747-ab84ec85-d0d2-4e72-856a-ccd594b30ff4.png)
+
+
+
+
+Face spoofing
+face_spoofing.py is used for finding whether the face is real or a photograph or image
+
+Even thought i have not included it in my gui. the code for it is available on my github.
+
+Security alarm
+![image](https://user-images.githubusercontent.com/98827445/171061246-d98b253a-ce6d-49a4-b8e8-6297b783a3f2.png)
+![image](https://user-images.githubusercontent.com/98827445/171061300-5b19087e-ae48-4b13-a24f-29e62a04c8ad.png)
+
+
+Brightness control 
+![image](https://user-images.githubusercontent.com/98827445/171061153-217900e5-f652-4cc1-9cb5-0c4d399e0eb8.png)
+
+
+Volume control
+![image](https://user-images.githubusercontent.com/98827445/171061041-2e290cf9-5b0b-4ca6-b7ca-1d6713226733.png)
+
+Attendance system
+![image](https://user-images.githubusercontent.com/98827445/171061384-a10f5e65-4c5d-427b-b5da-8ca884d59d4c.png)
+
+
+Final GUI in dark mode
+![image](https://user-images.githubusercontent.com/98827445/171060127-e041b5bc-3992-4125-99b7-35e83a21418c.png)
+
+Final GUI in light mode
+![image](https://user-images.githubusercontent.com/98827445/171060202-c20c7e59-183e-4e33-9ac2-6498dcdeda17.png)
+
+Additional features of my project include
+1. Voice input
+2. Face makeup
+3. Face blur
+4. Face age detection
+5. Face emotion detection 
+
+Future Scope
+1. Room for improving accuracy
+2. Multithreading implementataion, etc.
+
+Additional document
+[Microsoft Engage Project 2022_Documentation.docx](https://github.com/Lavanyadoohan/Microsoft-Project/files/8800809/Microsoft.Engage.Project.2022_Documentation.docx)
+
+
 
